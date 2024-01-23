@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "items": [
+    {
+      "img": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/m/p/p/8-rkt-19039-black-42-atom-black-original-imagzhc3g3hase4e.jpeg?q=70&crop=false",
+      "name": "Black Shoes",
+      "category": "shoes",
+      "description": "Description for Product 1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "img": "/images/perfume-1.jpeg",
+      "category": "perfume",
+      "description": "Description for Product 2"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "img": "/images/earing-1.jpeg",
+      "category": "perfume",
+      "description": "Description for Product 3"
+    },
+    {
+      "name": "GUESS Spec Collection Analog Brown Dial Men's Watch-GW0490G5",
+      "img": "https://m.media-amazon.com/images/I/71+Obx8yWyL._SX679_.jpg",
+      "category": "watch",
+      "description": "Case Material: Stainless Steel,Case Color: Brown\nCase Shape: Round,Case Size: 44 MM\nGuess Spec Collection\nWarranty: 1 Year limited Warranty,Movement: Quartz\nDisplay: Analog,Glass Material: Mineral Glass\n",
+      "id": 4
+    },
+    {
+      "name": "Matrix Antique 2.0 Day & Date Softest Silicone Strap Analog Watch for Men & Boys",
+      "img": "https://m.media-amazon.com/images/I/711NXCmUfbL._SX679_.jpg",
+      "category": "watch",
+      "description": "Dial : Brass Metal Dial With Silver Needles & Day & Date Feature\nStrap & Case : Softest Silicon Strap | Stainless Steel Case\nMachinery : Japanese Quartz Machinery With Original Sony Batteries Which Last More Than 2 Years\nOther Features : Scratch Resistant Glass & Water Resistent Upto 1 M\nWarranty - 1 Year Manufacturing Warranty",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
